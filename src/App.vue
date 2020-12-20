@@ -6,9 +6,9 @@
   </v-app>
 </template>
 <style>
-.v-main__wrap {
-  background-color: black;
-}
+/*.v-main__wrap {*/
+/*  background-color: black;*/
+/*}*/
 body {
   cursor: url('./assets/curseur.png'), auto;
 }
